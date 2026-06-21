@@ -1,8 +1,5 @@
 opencv-python-headless
 mediapipe
-torch
-torchvision
 numpy
 streamlit
 gtts
-huggingface_hub
