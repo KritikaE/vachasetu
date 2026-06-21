@@ -1,7 +1,7 @@
+opencv-python-headless
+mediapipe
 torch
 torchvision
-mediapipe
-opencv-python-headless
 numpy
 streamlit
 gtts
