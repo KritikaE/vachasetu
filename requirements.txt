@@ -1,0 +1,8 @@
+torch
+torchvision
+mediapipe
+opencv-python-headless
+numpy
+streamlit
+gtts
+huggingface_hub
